@@ -1,0 +1,15 @@
+destination: http-request
+config:
+  add:
+    method: GET
+    enabled: true
+    onError: retryNextSync
+    timeout: 30
+    hasRateLimit: false
+  change: {}
+  remove: {}
+  skipFirstRun: true
+  configVersion: 1
+schedule:
+  type: manual
+schedulePaused: false
