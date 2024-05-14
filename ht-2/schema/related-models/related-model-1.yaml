@@ -1,0 +1,4 @@
+name: related model 1
+source: postgre-sql
+type: table
+tableName: public.user_group_schema_model_creation_grants
