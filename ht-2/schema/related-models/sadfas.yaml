@@ -1,0 +1,4 @@
+name: sadfas
+source: postgre-sql
+type: table
+tableName: public.warehouse_snapshots
