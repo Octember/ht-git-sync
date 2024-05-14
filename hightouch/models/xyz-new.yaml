@@ -1,9 +1,0 @@
-name: xyz new
-source: google-sheets
-type: custom
-customQuery:
-  name: Tool Admins
-  type: sheet
-primaryKey: >-
-  Important: For each tool, we recommend tagging all of the tool admins in
-  #access-requests to increase speed of fulfilling your request!
