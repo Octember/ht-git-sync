@@ -1,0 +1,5 @@
+name: changelog
+source: postgre-sql
+type: raw_sql
+rawSql: select * from changelog
+primaryKey: id
