@@ -1,4 +1,4 @@
-name: related model 2222
+name: related model Hello world
 source: postgre-sql
 type: table
 tableName: public.user_group_schema_model_creation_grants
