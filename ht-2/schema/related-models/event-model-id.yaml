@@ -1,4 +1,4 @@
-name: event model id
+name: event model id2
 source: postgre-sql
 type: table
 tableName: public.git_commit_checks
