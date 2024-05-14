@@ -1,0 +1,5 @@
+name: event model id4
+source: postgre-sql
+type: table
+tableName: public.git_commit_checks
+eventTimestampColumn: created_at
