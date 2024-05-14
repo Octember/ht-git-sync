@@ -1,4 +1,4 @@
-name: parent model 1
+name: parent model 2
 source: postgre-sql
 type: table
 tableName: public.changelog
