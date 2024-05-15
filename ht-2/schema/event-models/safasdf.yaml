@@ -2,4 +2,4 @@ name: safasdf
 source: postgre-sql
 type: table
 tableName: public.syncs
-eventTimestampColumn: updated_at
+eventTimestampColumn: created_at
