@@ -1,4 +1,4 @@
-name: "Loom demo "
+name: "Hello loom viewer Noah did it!"
 source: postgre-sql
 type: table
 tableName: public.sync_requests
