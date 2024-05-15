@@ -1,4 +1,4 @@
-name: sadfas 2
+name: sadfas 22
 source: postgre-sql
 type: table
 tableName: public.warehouse_snapshots
