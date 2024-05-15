@@ -5,4 +5,7 @@ sources:
   postgre-sql:
     name: PostgreSQL
     type: postgres
-destinations: {}
+destinations:
+  http-request:
+    name: HTTP Request
+    type: webhookV2
