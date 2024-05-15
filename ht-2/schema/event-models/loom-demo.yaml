@@ -1,0 +1,5 @@
+name: 'Loom demo '
+source: postgre-sql
+type: table
+tableName: public.sync_requests
+eventTimestampColumn: created_at
