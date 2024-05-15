@@ -1,0 +1,10 @@
+model: models-models-models-changelog
+destination: http-request
+config:
+  add: {}
+  change: {}
+  remove: {}
+  configVersion: 1
+schedule:
+  type: manual
+schedulePaused: false
