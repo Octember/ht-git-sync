@@ -2,4 +2,4 @@ name: Created from inbound 2
 source: postgre-sql
 type: table
 tableName: public.syncs
-eventTimestampColumn: safasdf-3
+eventTimestampColumn: created_at
