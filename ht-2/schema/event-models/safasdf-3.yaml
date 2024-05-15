@@ -1,4 +1,4 @@
-name: Created from inbound
+name: Created from inbound 2
 source: postgre-sql
 type: table
 tableName: public.syncs
