@@ -1,0 +1,5 @@
+name: Created from inbound
+source: postgre-sql
+type: table
+tableName: public.syncs
+eventTimestampColumn: created_at
