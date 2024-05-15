@@ -1,0 +1,5 @@
+name: safasdf
+source: postgre-sql
+type: table
+tableName: public.syncs
+eventTimestampColumn: created_at
