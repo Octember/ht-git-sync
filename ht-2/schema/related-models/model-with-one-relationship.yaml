@@ -1,0 +1,4 @@
+name: Model with one relationship
+source: postgre-sql
+type: table
+tableName: public.destination_rules
